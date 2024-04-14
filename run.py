@@ -1,7 +1,7 @@
 import requests
 import json
 
-email = input('Email : ')
+email = input('Email? : ')
 password = input('Password : ')
 
 payload = {
